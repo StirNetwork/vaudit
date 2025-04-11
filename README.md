@@ -45,6 +45,16 @@ targets:
     required_signers: 2
 ```
 
-## 📄 License
 
-MIT
+## 🖋 Contributing
+
+We use the [Developer Certificate of Origin (DCO)](./DCO).  
+By contributing to this project, you agree to the terms of the DCO.
+
+All commits must be signed off using `git commit -s`.
+
+Example:
+
+```
+git commit -s -m "Add feature X"
+```
